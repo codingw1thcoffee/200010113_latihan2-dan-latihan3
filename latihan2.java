@@ -36,5 +36,6 @@ public class latihan2{
             kat_bb = "Kategori = Obesitas";
             System.out.println(kat_bb);
         }
+        System.out.println("Codemaker = I Putu Gede Juliana_200010113");
     }
 }
